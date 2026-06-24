@@ -1,0 +1,8 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+android/.gradle/
+android/app/build.gradle
+ios/.generated/
